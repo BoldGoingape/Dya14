@@ -1,0 +1,8 @@
+<error-page>
+    <erro-code>
+        404
+    </erro-code>
+    <location>
+        error.jsp
+    </location>
+</error-page>
