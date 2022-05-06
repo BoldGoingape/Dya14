@@ -21,5 +21,6 @@ public class index1Servlet extends HttpServlet {
         System.out.println(passWord);
         response.getWriter().println(username+passWord);
         Systerm.out.print("实验成功");
+        System.out.print("我是实验2");
     }
 }
