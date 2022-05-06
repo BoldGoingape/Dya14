@@ -20,7 +20,7 @@ public class index1Servlet extends HttpServlet {
         System.out.println(username);
         System.out.println(passWord);
         response.getWriter().println(username+passWord);
-        System.out.print("我是实验2");
         System.out.print("实验成功");
+        System.out.print("我是实验2");
 }
 }
